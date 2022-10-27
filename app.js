@@ -1,0 +1,14 @@
+const express = require("express");
+
+const app = express();
+
+app.get("/profile", (req, res, next) => {
+  return res.status(200).json({
+    slackUsername: "jhay.js",
+    backend: true,
+    age: 18,
+    bio: "Building highly performant web apps with React.js ☸ x Node.js ⚙",
+  });
+});
+
+module.exports = app;

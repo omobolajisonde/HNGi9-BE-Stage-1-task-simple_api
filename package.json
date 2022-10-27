@@ -4,11 +4,22 @@
   "description": "A simple api",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js"
   },
-  "author": "",
+  "author": "Sonde Omobolaji",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^16.0.3",
     "express": "^4.18.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omobolajisonde/HNGi9-BE-Stage-1-task-simple_api.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/omobolajisonde/HNGi9-BE-Stage-1-task-simple_api/issues"
+  },
+  "homepage": "https://github.com/omobolajisonde/HNGi9-BE-Stage-1-task-simple_api#readme"
 }
