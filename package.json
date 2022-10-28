@@ -17,9 +17,5 @@
     "type": "git",
     "url": "git+https://github.com/omobolajisonde/HNGi9-BE-Stage-1-task-simple_api.git"
   },
-  "keywords": [],
-  "bugs": {
-    "url": "https://github.com/omobolajisonde/HNGi9-BE-Stage-1-task-simple_api/issues"
-  },
-  "homepage": "https://github.com/omobolajisonde/HNGi9-BE-Stage-1-task-simple_api#readme"
+  "keywords": []
 }
