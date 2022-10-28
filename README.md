@@ -4,6 +4,9 @@
 A simple API with a GET /profile endpoint.
 
 ## Endpoints
+`GET '/'`
+- Redirects to /profile endpoint
+
 `GET '/profile'`
 - Returns: a JSON response of a person's data.
 - Request parameter: None
