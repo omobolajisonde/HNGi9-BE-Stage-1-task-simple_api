@@ -12,7 +12,7 @@ A simple API with a GET /profile endpoint.
 - Request parameter: None
 - Sample
 ```bash
-curl http://127.0.0.1:8000/profile
+curl https://simple-api-hngi9.onrender.com/profile
 ```
 - Response (JSON)
 ```json
@@ -29,4 +29,4 @@ An [HNGi9](https://internship.zuri.team/hngi9) backend task.
 Built using Express.js
 
 ## Deployment
-Link to live site: https://linktree-hngi9.netlify.app/
+Link to live site: https://simple-api-hngi9.onrender.com/profile
